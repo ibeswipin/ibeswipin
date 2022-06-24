@@ -4,12 +4,9 @@
 
 
 <i><a href="https://t.me/the_farkhodov">Telegram</a></i> <b>|</b>
-<i><a href="https://t.me/linuxil1">Channel</a></i> <b>|</b>
+<i><a href="https://t.me/nino_mods">Channel</a></i> <b>|</b>
 <i><a href="https://Instagram.com/the_farkhodov">Instagram</a></i>
 
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoreForever&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmoreForever&show_icons=true&title_color=black&icon_color=34abeb&text_color=black&bg_color=white" />
