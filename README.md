@@ -1,5 +1,4 @@
-![ukraine](https://img.freepik.com/free-vector/set-ukrainian-elements-with-different-hands-heart-flag-map-ukraine-save-ukraine-concept_642033-4.jpg?w=820)
-
+![ukraine](https://i.imgur.com/irgSiYj.jpeg)
 > Well, actually my real name is Fazliddin Farhodov. I'm 16 y.o, live in Tashkent. Prob, it's all what you'd want to know about me.
 
 
