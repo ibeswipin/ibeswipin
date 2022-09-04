@@ -1,7 +1,7 @@
-![ukraine](https://i.imgur.com/irgSiYj.jpeg)
+![ukraine](https://te.legra.ph/file/8ae9a84c567e9bce56239.jpg)
 > What's up, My name is Fazliddin I am from Uzbekistan, I am 16 years old. I write modules for userbots 
 <i><a href="https://t.me/the_farkhodov">Telegram</a></i> <b>|</b>
-<i><a href="https://t.me/nino_mods">Channel</a></i> <b>|</b>
+<i><a href="https://t.me/amoremodss">Channel</a></i> <b>|</b>
 <i><a href="https://Instagram.com/the_farkhodov">Instagram</a></i>
 
 
