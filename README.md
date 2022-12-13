@@ -1,8 +1,8 @@
-![ukraine](https://te.legra.ph/file/8ae9a84c567e9bce56239.jpg)
+![ukraine](https://te.legra.ph/file/45222aa2765c79fc97c39.jpg)
 > What's up, My name is Fazliddin I am from Uzbekistan, I am 16 years old. I write modules for userbots 
-<i><a href="https://t.me/the_farkhodov">Telegram</a></i> <b>|</b>
-<i><a href="https://t.me/amoremodss">Channel</a></i> <b>|</b>
-<i><a href="https://Instagram.com/the_farkhodov">Instagram</a></i>
+<i><a href="https://t.me/amorescam">Telegram</a></i> <b>|</b>
+<i><a href="https://t.me/amoremods">Channel</a></i> <b>|</b>
+<i><a href="https://Instagram.com/amore.ymer">Instagram</a></i>
 
 <a href="https://wakatime.com/@fe00d695-9bb0-46d0-b8a4-e565cf2a2a77"><img src="https://wakatime.com/badge/user/fe00d695-9bb0-46d0-b8a4-e565cf2a2a77.svg" alt="Total time coded since Jun 28 2022" /></a>
 
