@@ -1,5 +1,5 @@
 ![ukraine](https://te.legra.ph/file/45222aa2765c79fc97c39.jpg)
-> What's up, My name is Fazliddin I am from Uzbekistan, I am 16 years old. I write modules for userbots 
+> What's up, My name is Fazliddin I'm come from Uzbekistan, I'm 16. 
 <i><a href="https://t.me/amorescam">Telegram</a></i> <b>|</b>
 <i><a href="https://t.me/amoremods">Channel</a></i> <b>|</b>
 <i><a href="https://Instagram.com/amore.ymer">Instagram</a></i>
