@@ -12,7 +12,7 @@
 
 
 ### Code time
-[![Amore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amorescam&show_icons=true&theme=react)](https://github.com/AmoreForever/github-readme-stats)
+[![Amore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amorescam&show_icons=true&theme=react&layout=compact)](https://github.com/AmoreForever/github-readme-stats)
 <br/>
 
 
