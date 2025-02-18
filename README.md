@@ -17,14 +17,4 @@
 <br/>
 
 
-
-<div align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=amorescam&custom_title=AmoreForever&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
-    />
-
-    
-</div>
-
 📨  My telegram blog <a href="https://t.me/sngscamer">link</a>
