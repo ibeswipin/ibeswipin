@@ -2,7 +2,7 @@
 
 
 ### My contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmoreForever&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmoreForever&theme=react)](https://git.io/streak-stats)
 <br/>
 ### My stats
 [![AmoreForever's github stats](https://github-readme-stats.vercel.app/api?username=AmoreForever&show_icons=true&theme=react&rank_icon=github)](https://github.com/AmoreForever/github-readme-stats) <br/><br/>
