@@ -1,41 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=140&section=header&text=ibeswipin&fontColor=9f9f9f&fontSize=38&animation=fadeIn" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=ibeswipin&fontSize=42&fontColor=222222&desc=Backend%20Developer%20|%20AI%20Builder&descAlignY=65&animation=fadeIn" />
 
+<!-- Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ibeswipin&label=views&color=111111&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ibeswipin&label=views&color=555555&style=flat" />
   <a href="https://wakatime.com/@fe00d695-9bb0-46d0-b8a4-e565cf2a2a77">
-    <img src="https://wakatime.com/badge/user/fe00d695-9bb0-46d0-b8a4-e565cf2a2a77.svg?style=flat-square" alt="Total time coded" />
+    <img src="https://wakatime.com/badge/user/fe00d695-9bb0-46d0-b8a4-e565cf2a2a77.svg" />
   </a>
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=777777&center=true&vCenter=true&width=500&lines=Building+in+silence.;Focused+on+craft.;Consistency+over+noise." />
+<b>Focused on little things what brings happines) </b>  
 
 <br/><br/>
 
 ---
 
-### ⚙ Activity
-<img src="https://streak-stats.demolab.com?user=ibeswipin&theme=github-dark&hide_border=true" />
+### Current Activity
+<img src="https://streak-stats.demolab.com?user=ibeswipin&theme=default&hide_border=true" />
 
 ---
 
-### 📊 Performance
-<img src="https://github-readme-stats.vercel.app/api?username=ibeswipin&show_icons=true&theme=github_dark&hide_border=true" />
+### GitHub Overview
+<img src="https://github-readme-stats.vercel.app/api?username=ibeswipin&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=444&text_color=666&icon_color=888" />
 
 ---
 
-### 🩶 Stack Usage
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibeswipin&layout=compact&theme=github_dark&hide_border=true" />
+### Tech Stack
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,linux,git" />
 
 ---
 
-### ⏳ Code Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amorescam&theme=github_dark&layout=compact&hide_border=true" />
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibeswipin&layout=compact&hide_border=true&bg_color=ffffff00&title_color=444&text_color=666" />
+
+---
+
+### Development Time
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amorescam&layout=compact&hide_border=true&bg_color=ffffff00" />
+
+---
+
+### 📎 Contact
+<a href="https://t.me/hikamoru">
+  <img src="https://img.shields.io/badge/Telegram-Contact-2f2f2f?style=flat-square&logo=telegram&logoColor=white" />
+</a>
 
 <br/><br/>
-<sub style="color:#666;">No noise) </sub>
 
 </div>
