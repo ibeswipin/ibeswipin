@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=ibeswipin&fontSize=42&fontColor=222222&desc=CTF%20Enjoer%20|%20AI%20Builder&descAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=ibeswipin&fontSize=42&fontColor=222222&desc=CTF%20Enjoer%20|%20Backend%20Developer&descAlignY=65&animation=fadeIn" />
 
 <!-- Badges -->
 <p>
