@@ -20,7 +20,7 @@
 
   <div style="display:flex; flex-direction:column; gap:12px; width:100%; max-width:420px; margin:0 auto;">
 
-    <a href="https://hikamoru.ru" style="
+  <a href="https://hikamoru.ru" style="
       display:flex; justify-content:space-between; 
       padding:14px 18px; border-radius:14px; 
       background:#111827; color:#e5e7eb; text-decoration:none;
