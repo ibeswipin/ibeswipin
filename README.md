@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <div style="padding: 30px; border-radius: 20px; background: #0d1117; width: 90%; max-width: 900px; border: 1px solid #1f2630;">
 
@@ -59,4 +59,4 @@
 
 </div>
 
-</div>
+</div> -->
