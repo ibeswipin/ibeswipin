@@ -1,54 +1,62 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=ibeswipin&fontSize=42&fontColor=222222&desc=CTF%20Enjoer%20|%20Backend%20Developer&descAlignY=65&animation=fadeIn" />
+<div style="padding: 30px; border-radius: 20px; background: #0d1117; width: 90%; max-width: 900px; border: 1px solid #1f2630;">
 
-<!-- Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ibeswipin&label=views&color=555555&style=flat" />
-  <a href="https://wakatime.com/@fe00d695-9bb0-46d0-b8a4-e565cf2a2a77">
-    <img src="https://wakatime.com/badge/user/fe00d695-9bb0-46d0-b8a4-e565cf2a2a77.svg" />
-  </a>
-</p>
+  <img src="https://avatars.githubusercontent.com/u/103936585?v=4" width="90" style="border-radius: 50%; margin-bottom: 15px;" />
 
-<br/>
+  <h1 style="color: #ffffff; font-size: 32px; margin-bottom: 10px;">
+    Fazliddin Farkhodov
+  </h1>
 
-<b>Focused on little things what brings happines) </b>  
+  <div style="margin-bottom: 18px;">
+    <span style="background:#2563eb; padding:6px 12px; border-radius:10px; color:#fff; margin-right:6px; font-size:13px;">Backend</span>
+    <span style="background:#7c3aed; padding:6px 12px; border-radius:10px; color:#fff; margin-right:6px; font-size:13px;">Cybersecurity</span>
+    <span style="background:#dc2626; padding:6px 12px; border-radius:10px; color:#fff; margin-right:6px; font-size:13px;">ML</span>
+  </div>
 
-<br/><br/>
+  <p style="color:#9ca3af; font-size:16px; margin-bottom: 25px;">
+    backend dev
+  </p>
 
----
+  <div style="display:flex; flex-direction:column; gap:12px; width:100%; max-width:420px; margin:0 auto;">
 
-### Current Activity
-<img src="https://streak-stats.demolab.com?user=ibeswipin&theme=default&hide_border=true" />
-
----
-
-### GitHub Overview
-<img src="https://github-readme-stats.vercel.app/api?username=ibeswipin&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=444&text_color=666&icon_color=888" />
-
----
-
-### Tech Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,linux,git" />
-
----
-
-### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibeswipin&layout=compact&hide_border=true&bg_color=ffffff00&title_color=444&text_color=666" />
-
----
-
-### Development Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amorescam&layout=compact&hide_border=true&bg_color=ffffff00" />
-
----
-
-### 📎 Contact
-<a href="https://t.me/hikamoru">
-  <img src="https://img.shields.io/badge/Telegram-Contact-2f2f2f?style=flat-square&logo=telegram&logoColor=white" />
+    <a href="https://hikamoru.ru" style="
+      display:flex; justify-content:space-between; 
+      padding:14px 18px; border-radius:14px; 
+      background:#111827; color:#e5e7eb; text-decoration:none;
+      border:1px solid #1f2937; font-size:16px; align-items:center;">
+      hikamoru.ru
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"/>
+        <line x1="2" y1="12" x2="22" y2="12"/>
+        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+      </svg>
 </a>
 
-<br/><br/>
+<a href="https://t.me/hikamoru" style="
+      display:flex; justify-content:space-between; 
+      padding:14px 18px; border-radius:14px; 
+      background:#111827; color:#e5e7eb; text-decoration:none;
+      border:1px solid #1f2937; font-size:16px; align-items:center;">
+      hikamoru.t.me
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 2L12 13"/>
+        <path d="M22 2L15 22l-4-9-9-4z"/>
+      </svg>
+</a>
+
+  </div>
+
+  <!-- Logos -->
+  <div style="margin-top: 35px; display:flex; justify-content:center; gap:40px; flex-wrap:wrap; opacity:0.85;">
+    <img src="https://skillicons.dev/icons?i=python" height="40"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+    <img src="https://skillicons.dev/icons?i=django" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  </div>
+
+</div>
 
 </div>
